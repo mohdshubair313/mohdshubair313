@@ -31,5 +31,5 @@ I'm a software engineer working on various interesting projects.
 
 ## 📫 Connect with me:
 
-[![Linkedin: Your Name](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
-[![GitHub: yourusername](https://img.shields.io/github/followers/yourusername?label=follow&style=social)](https://github.com/yourusername)
+[![Linkedin: Mohd Shubair](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/mohd-shubair-b1a454250/)
+[![GitHub: mohdshubair313](https://img.shields.io/github/followers/yourusername?label=follow&style=social)](https://github.com/mohdshubair313)
