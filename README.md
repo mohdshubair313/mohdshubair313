@@ -18,18 +18,12 @@ I'm a software engineer working on various interesting projects.
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdshubair313&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdshubair313&layout=compact&theme=radical)
 ## 📫 Connect with me:
 
-[![Linkedin: Mohd Shubair](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohd-shubair-b1a454250/)](https://www.linkedin.com/in/mohd-shubair-b1a454250/)
-[![GitHub: mohdshubair313](https://img.shields.io/github/followers/yourusername?label=follow&style=social)](https://github.com/mohdshubair313)
+[![Linkedin: Mohd Shubair](https://img.shields.io/badge/-Mohd_Shubair-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohd-shubair-b1a454250/)](https://www.linkedin.com/in/mohd-shubair-b1a454250/)
+[![GitHub: mohdshubair313](https://img.shields.io/github/followers/mohdshubair313?label=follow&style=social)](https://github.com/mohdshubair313)
