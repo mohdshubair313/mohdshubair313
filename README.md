@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a software engineer working on various interesting projects.
+I'm a Full Stack developer(Intern) working on various interesting projects.
 
 - 🌱 I’m currently learning new technologies and improving my skills.
 - 🛠️ I’m working on some exciting projects.
