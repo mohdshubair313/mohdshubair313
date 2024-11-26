@@ -16,10 +16,6 @@ I'm **Mohd Shubair**, a **Full Stack Developer (Intern)**, constantly exploring 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdshubair313&show_icons=true&theme=radical)
 
-## 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdshubair313&layout=compact&theme=radical)
-
 ## 📫 Connect with me:
 
 [![Linkedin: Mohd Shubair](https://img.shields.io/badge/-Mohd_Shubair-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohd-shubair-b1a454250/)](https://www.linkedin.com/in/mohd-shubair-b1a454250/)
