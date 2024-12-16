@@ -3,9 +3,9 @@
 I'm **Mohd Shubair**, a **Full Stack Developer (Intern)**, constantly exploring new technologies and building impactful projects. I'm passionate about developing scalable applications that solve real-world problems, and I take pride in my ability to quickly learn and apply new tools and frameworks.
 
 - 🌱 I’m currently leveling up my skills in cutting-edge tech like AI stuffs with Python/Django, Cloud platforms like AWS, Docker and Curating Full stack app with Next.js/React.js, Typescript, Postgres/Mongo etc...
--  
+  
 - 🛠️ I’m working on exciting open-source projects and contributing to innovative solutions.
-- 
+  
 - 📫 How to reach me: **[shubair313@gmail.com](mailto:shubair313@gmail.com)**
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love hiking, photography, and exploring the latest tech trends!
