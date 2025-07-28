@@ -12,7 +12,7 @@ I'm **Mohd Shubair**, a **Full Stack Developer (Intern)**, constantly exploring 
 
 ## 🔧 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,py,django,aws,react,java,mongodb,mysql,postgres,docker,kubernetes,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,py,django,aws,react,next,mongodb,mysql,postgres,docker,kubernetes,&theme=dark)](https://skillicons.dev)
 
 ## 📫 Connect with me:
 
