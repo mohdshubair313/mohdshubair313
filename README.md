@@ -1,22 +1,26 @@
-# Hi there 👋
+# Mohd Shubair 👋
 
-I'm **Mohd Shubair**, a **Full Stack Developer (Intern)**, constantly exploring new technologies and building impactful projects. I'm passionate about developing scalable applications that solve real-world problems, and I take pride in my ability to quickly learn and apply new tools and frameworks.
+**AI Engineer | Machine Learning | Backend Systems**
 
-- 🌱 I’m currently leveling up my skills in cutting-edge tech like AI stuffs with Python/Django, Cloud platforms like AWS, Docker and Curating Full stack app with Next.js/React.js, Typescript, Postgres/Mongo etc...
-  
-- 🛠️ I’m working on exciting open-source projects and contributing to innovative solutions.
-  
-- 📫 How to reach me: **[shubair313@gmail.com](mailto:shubair313@gmail.com)**
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love hiking, photography, and exploring the latest tech trends!
+*I learn how models work, then build the systems that make them useful.*
 
-## 🔧 Technologies & Tools
+I'm building AI agents and RAG applications while studying ML fundamentals, from data preparation and regression to classification and model evaluation. I share the learning, code, and experiments as I go.
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,py,django,aws,react,redis,mongodb,mysql,postgres,docker,kubernetes,&theme=dark)](https://skillicons.dev)
+### What I work with
+- **Languages:** Python, TypeScript, JavaScript, SQL, Go (learning)
+- **Machine Learning:** NumPy, Pandas, scikit-learn, Matplotlib, Seaborn; EDA, feature engineering, regression, classification, regularization, model evaluation
+- **AI Engineering:** LangChain, LangGraph, RAG, embeddings, vector search, LLM evals, RAGAS, Langfuse, agent observability
+- **Backend:** FastAPI, Django/DRF, Next.js, PostgreSQL, MongoDB, Redis, Docker
 
-## 📫 Connect with me:
+### Building and experimenting
+- **[Assurely](https://github.com/mohdshubair313/Assurely)** · [Live](https://assurely.shubair.in/) — Evidence-grounded insurance AI, agent workflows, tracing and evals.
+- **[FriendsAI](https://github.com/mohdshubair313/FriendsAI)** · [Live](https://friendsai.shubair.in/) — Conversational AI, multimodal interactions and agent routing.
+- **[TradeInsight AI](https://github.com/mohdshubair313/Trade_opportunity_ByAI)** · [Live](https://tradeinsight.shubair.in/) — AI market research, model fallbacks and background jobs.
+- **[Chaty AI](https://github.com/mohdshubair313/ChatyBackend)** · [Live](https://chaty-ai.vercel.app/) — PDF RAG, vector search and asynchronous ingestion.
 
-[![Linkedin: Mohd Shubair](https://img.shields.io/badge/-Mohd_Shubair-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohd-shubair-b1a454250/)](https://www.linkedin.com/in/mohd-shubair-b1a454250/)
+📓 **My ML learning log:** [Notes & progress](https://www.shubair.in/ml-learnings) · [Notebooks & code](https://github.com/mohdshubair313/machine-learning-concepts)
 
- My Hacktoberfest Participation (All 4 Badges are completed)
-[![An image of @mohdshubair313's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohdshubair313)](https://holopin.io/@mohdshubair313)
+### Sponsor the next experiment ♡
+I'm learning ML in public and turning concepts into working AI projects. If my notes or code help you, [**sponsoring my work**](https://github.com/sponsors/mohdshubair313) helps me keep experimenting, documenting and sharing what I build.
+
+[Portfolio](https://shubair.in/) · [LinkedIn](https://www.linkedin.com/in/mohd-shubair-b1a454250/) · [Email](mailto:shubair313@gmail.com)
